@@ -7,7 +7,7 @@ const port = 3000;
 app.use(cors());
 
 let corsOptions = {
-  origin: "https://food-ordering-app-clone.vercel.app/",
+  origin: "https://food-ordering-app-clone.vercel.app",
   optionsSuccessStatus: 200,
 };
 
